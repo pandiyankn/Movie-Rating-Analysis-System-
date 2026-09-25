@@ -1,0 +1,31 @@
+Movie_ID,Movie,Genre,Rating,Release_Year,Reviews
+M001,Soorarai Pottru,Drama,8.7,2020,125000
+M002,Jai Bhim,Drama,9.0,2021,145000
+M003,Vikram,Action,8.6,2022,180000
+M004,Kaithi,Action,8.4,2019,120000
+M005,96,Romance,8.5,2018,110000
+M006,Asuran,Drama,8.5,2019,105000
+M007,Ratsasan,Thriller,8.3,2018,95000
+M008,Maanaadu,Sci-Fi,8.0,2021,85000
+M009,Thani Oruvan,Thriller,8.4,2015,90000
+M010,Visaranai,Crime,8.4,2015,100000
+M011,Vada Chennai,Crime,8.6,2018,115000
+M012,Super Deluxe,Drama,8.3,2019,88000
+M013,Pariyerum Perumal,Drama,8.7,2018,92000
+M014,Kaaka Kaaka,Action,8.0,2003,75000
+M015,Vaaranam Aayiram,Romance,8.2,2008,98000
+M016,Anniyan,Thriller,8.2,2005,125000
+M017,Indian,Action,8.1,1996,85000
+M018,Mudhalvan,Drama,8.4,1999,90000
+M019,Alaipayuthey,Romance,8.3,2000,95000
+M020,Mouna Ragam,Romance,8.4,1986,80000
+M021,Thalapathi,Drama,8.5,1991,88000
+M022,Nayakan,Crime,8.7,1987,110000
+M023,Roja,Romance,8.1,1992,78000
+M024,Bombay,Drama,8.1,1995,82000
+M025,Iraivi,Drama,7.9,2016,70000
+M026,Dhuruvangal Pathinaaru,Thriller,8.2,2016,76000
+M027,Theeran Adhigaaram Ondru,Action,8.3,2017,89000
+M028,Mahanati,Drama,8.5,2018,105000
+M029,Pudhupettai,Crime,8.4,2006,97000
+M030,Aruvi,Drama,8.0,2016,68000
